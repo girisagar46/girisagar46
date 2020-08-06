@@ -21,6 +21,8 @@ Skills: __PYTHON/ DJANGO/ AWS__
       <td width="50%" align="center" style="border: none;">
         <img height="300px" src="https://github-readme-stats.vercel.app/api?username=girisagar46&show_icons=true">
         <img src="https://gpvc.arturio.dev/girisagar46">
+        <img src="https://badges.pufler.dev/years/girisagar46">
+        <img src="https://badges.pufler.dev/repos/girisagar46">
       </td>
       <td width="50%" align="center" style="border: none;">
         <img height="300px" src="https://wakatime.com/share/@girisagar46/9e2dcaec-ba40-4697-9a36-0e00e2aba570.svg">
