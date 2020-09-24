@@ -2,9 +2,9 @@
 
 Skills: __PYTHON/ DJANGO/ AWS__
 
-🔭 I’m currently working on __Python, Django__
+🔭 I’m currently working on __Python, Django, Java__
 
-🌱 I’m currently learning __VueJS, TypeScript__
+🌱 I’m currently learning __Kafka, Cassandra, Astra__
 
 ⚡ Fun fact: __Not Yet! :trollface:__
 
