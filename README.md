@@ -22,6 +22,9 @@ See my [resume](https://github.com/girisagar46/girisagar46/blob/master/Resume_Sa
     <tr valign="top">
       <td width="50%" align="center" style="border: none;">
         <img height="300px" src="https://github-readme-stats.vercel.app/api?username=girisagar46&show_icons=true">
+        
+        <p>My trophies</p>
+        <img src="https://github-profile-trophy.vercel.app/?username=girisagar46">
         <img src="https://gpvc.arturio.dev/girisagar46">
         <img src="https://badges.pufler.dev/years/girisagar46">
         <img src="https://badges.pufler.dev/repos/girisagar46">
