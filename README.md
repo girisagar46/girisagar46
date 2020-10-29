@@ -4,7 +4,7 @@ Skills: __PYTHON/ DJANGO/ AWS__
 
 🔭 I’m currently working on __Python, Django, Java__
 
-🌱 I’m currently learning __Kafka, Cassandra, Astra__
+🌱 I’m currently learning __AWS SAA-C02, Cassandra, Spring Boot__
 
 ⚡ Fun fact: __Not Yet! :trollface:__
 
