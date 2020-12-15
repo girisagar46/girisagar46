@@ -1,3 +1,6 @@
+![GitHub metrics](https://metrics.lecoq.io/girisagar46?pagespeed=1&languages=1&isocalendar=1&gists=1&followup=1&pagespeed.detailed=false&isocalendar.duration=full-year)
+
+
 ### Hi there 👋, my name is Sagar
 
 Skills: __PYTHON/ DJANGO/ AWS__
@@ -36,4 +39,3 @@ See my [resume](https://github.com/girisagar46/girisagar46/blob/master/Resume_Sa
   </tbody>
 </table>
 
-![GitHub metrics](https://metrics.lecoq.io/girisagar46?pagespeed=1&languages=1&isocalendar=1&gists=1&followup=1&pagespeed.detailed=false&isocalendar.duration=full-year)
