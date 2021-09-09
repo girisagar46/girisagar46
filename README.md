@@ -41,4 +41,4 @@ See my [resume](https://github.com/girisagar46/girisagar46/blob/master/Resume_Sa
 </table>
 
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=girisagar46&hide_border=true)](https://git.io/streak-stats)
+![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=girisagar46&hide_border=true)
