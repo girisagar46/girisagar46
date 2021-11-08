@@ -7,7 +7,7 @@ Skills: __PYTHON/ DJANGO/ AWS__
 
 🔭 I’m currently working on __Python, Django, Java__
 
-🌱 I’m currently learning __AWS SAA-C02, Cassandra, Spring Boot__
+🌱 I’m currently learning __FastAPI, Go__
 
 ⚡ Fun fact: __Not Yet! :trollface:__
 
@@ -39,6 +39,3 @@ See my [resume](https://github.com/girisagar46/girisagar46/blob/master/Resume_Sa
     </tr>
   </tbody>
 </table>
-
-
-![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=girisagar46&hide_border=true)
