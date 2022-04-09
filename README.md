@@ -39,3 +39,8 @@ See my [resume](https://github.com/girisagar46/girisagar46/blob/master/Resume_Sa
     </tr>
   </tbody>
 </table>
+
+<hr>
+<img height='200px'
+  src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=girisagar46&badges=3&show-avatar=false&style=--header-bg-color:%23000;--border-radius:10px"
+/>
