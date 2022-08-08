@@ -7,7 +7,7 @@ Skills: __PYTHON/ DJANGO/ AWS/ TERRAFORM/ KUBERNETES/ JAVA__
 
 🔭 I’m currently working on __Python, Django, Java, Terraform, Kubernetes, AWS__
 
-🌱 I’m currently learning __Cassandra, Kubernetes__
+🌱 I’m currently learning __Advanced Python, Cassandra, Kubernetes__
 
 ⚡ Fun fact: __Not Yet! :trollface:__
 
@@ -29,11 +29,9 @@ See my [resume](https://github.com/girisagar46/girisagar46/blob/master/Resume_Sa
         <p>My trophies</p>
         <img src="https://github-profile-trophy.vercel.app/?username=girisagar46">
         <img src="https://gpvc.arturio.dev/girisagar46">
-        <img src="https://badges.pufler.dev/years/girisagar46">
-        <img src="https://badges.pufler.dev/repos/girisagar46">
       </td>
       <td width="50%" align="center" style="border: none;">
-        <img height="300px" src="https://wakatime.com/share/@girisagar46/9e2dcaec-ba40-4697-9a36-0e00e2aba570.svg">
+        <img height="300px" src="https://wakatime.com/share/@girisagar46/3ce9e598-a891-4788-a88f-564d598e001d.svg">
         <a href="https://stackexchange.com/users/5684581"><img src="https://stackexchange.com/users/flair/5684581.png" width="208" height="58" alt="profile for sgiri on Stack Exchange, a network of free, community-driven Q&amp;A sites" title="profile for sgiri on Stack Exchange, a network of free, community-driven Q&amp;A sites"></a>
       </td>
     </tr>
