@@ -34,7 +34,7 @@ See my [resume](https://github.com/girisagar46/girisagar46/blob/master/Resume_Sa
       </td>
       <td width="50%" align="center" style="border: none;">
         <img height="300px" src="https://wakatime.com/share/@girisagar46/9e2dcaec-ba40-4697-9a36-0e00e2aba570.svg">
-        <a href="https://stackoverflow.com/users/4494547/sgiri"><img height="137px" src="https://stackoverflow-card.vercel.app/?userID=4494547&theme=dracula"/></a>
+        <a href="https://stackexchange.com/users/5684581"><img src="https://stackexchange.com/users/flair/5684581.png" width="208" height="58" alt="profile for sgiri on Stack Exchange, a network of free, community-driven Q&amp;A sites" title="profile for sgiri on Stack Exchange, a network of free, community-driven Q&amp;A sites"></a>
       </td>
     </tr>
   </tbody>
