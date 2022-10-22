@@ -31,7 +31,7 @@ See my [resume](https://github.com/girisagar46/girisagar46/blob/master/Resume_Sa
         <img src="https://gpvc.arturio.dev/girisagar46">
       </td>
       <td width="50%" align="center" style="border: none;">
-        <img height="300px" src="https://wakatime.com/share/@girisagar46/3ce9e598-a891-4788-a88f-564d598e001d.svg">
+        <img height="300px" src="https://wakatime.com/share/@girisagar46/7ccc3594-6732-45bf-8448-234d8bc46d11.svg">
         <a href="https://stackexchange.com/users/5684581"><img src="https://stackexchange.com/users/flair/5684581.png" width="208" height="58" alt="profile for sgiri on Stack Exchange, a network of free, community-driven Q&amp;A sites" title="profile for sgiri on Stack Exchange, a network of free, community-driven Q&amp;A sites"></a>
       </td>
     </tr>
