@@ -7,7 +7,7 @@ Skills: __PYTHON/ DJANGO/ AWS/ TERRAFORM/ KUBERNETES/ JAVA__
 
 🔭 I’m currently working on __Python, Django, Java, Terraform, Kubernetes, AWS__
 
-🌱 I’m currently learning __Advanced Python, Cassandra, Kubernetes__
+🌱 I’m currently learning __Advanced Python, Django__
 
 ⚡ Fun fact: __Not Yet! :trollface:__
 
@@ -42,3 +42,16 @@ See my [resume](https://github.com/girisagar46/girisagar46/blob/master/Resume_Sa
 <img height='200px'
   src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=girisagar46&badges=3&show-avatar=false&style=--header-bg-color:%23000;--border-radius:10px"
 />
+
+## Contribution Graph
+
+[![girisagar46 GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=girisagar46&theme=xcode)](https://github.com/girisagar46)
+
+
+## GitHub Stats
+
+<a href="https://github.com/girisagar46/girisagar46">
+  <img width="33%" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=girisagar46&layout=compact&langs_count=8&theme=dark"/>
+  <img width="45.5%" src="https://github-readme-stats.vercel.app/api?username=girisagar46&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img  width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=girisagar46&show_icons=true&locale=en&layout=demo&theme=dark&hide_border=true&count_private=true" />
+</a>
