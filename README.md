@@ -39,16 +39,17 @@ See my [resume](https://github.com/girisagar46/girisagar46/blob/master/Resume_Sa
 </table>
 
 <hr>
-<img height='200px'
-  src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=girisagar46&badges=3&show-avatar=false&style=--header-bg-color:%23000;--border-radius:10px"
-/>
+<img width="33%" src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=girisagar46" />
 
-## Contribution Graph
+<hr>
 
-[![girisagar46 GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=girisagar46&theme=xcode)](https://github.com/girisagar46)
+<h3> Contribution Graph </h3>
+
+<img src="https://activity-graph.herokuapp.com/graph?username=girisagar46" />
 
 
-## GitHub Stats
+
+<h3> GitHub Stats </h3>
 
 <a href="https://github.com/girisagar46/girisagar46">
   <img width="33%" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=girisagar46&layout=compact&langs_count=8&theme=dark"/>
