@@ -44,9 +44,9 @@ See my [resume](https://github.com/girisagar46/girisagar46/blob/master/Resume_Sa
 <hr>
 
 <h3> Contribution Graph </h3>
-
-<img src="https://activity-graph.herokuapp.com/graph?username=girisagar46" />
-
+<a href="https://github.com/girisagar46/girisagar46">
+  <img src="https://activity-graph.herokuapp.com/graph?username=girisagar46" />
+</a>
 
 
 <h3> GitHub Stats </h3>
