@@ -1,24 +1,23 @@
 ![GitHub metrics](https://metrics.lecoq.io/girisagar46)
 
 
-### Hi there 👋, my name is Sagar
+### Hi there 👋, my name is Sagar. I'm currently living in Japan 🇯🇵
 
-Skills: __PYTHON/ DJANGO/ AWS/ TERRAFORM/ KUBERNETES/ JAVA__
+Skills: __PYTHON/ DJANGO/ AWS/ TERRAFORM/ KUBERNETES__
 
-🔭 I’m currently working on __Python, Django, Java, Terraform, Kubernetes, AWS__
+🔭 I’m currently working with __Python, Django, GraphQL__
 
-🌱 I’m currently learning __Advanced Python, Django__
+🌱 I’m currently learning __Advanced Python, Advanced Django & GraphQL__
 
 ⚡ Fun fact: __Not Yet! :trollface:__
-
-See my [resume](https://github.com/girisagar46/girisagar46/blob/master/Resume_Sagar_Giri_2022_April.pdf) or [download it](https://raw.githubusercontent.com/girisagar46/girisagar46/master/Resume_Sagar_Giri_2022_April.pdf)
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/girisagar46)
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg' alt='dev' height='40'>](https://dev.to/https://dev.to/girisagar46)
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/girisagar46//)
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg' alt='stackoverflow' height='40'>](https://stackoverflow.com/users/4494547/sgiri)
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://sagargiri.com/)
-<a rel="me" href="https://fosstodon.org/@girisagar46">Mastodon</a>
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/mastodon.svg' alt='website' height='40'>](https://fosstodon.org/@girisagar46)
+
 
 <!--
 ![Github stats](https://github-readme-stats.vercel.app/api?username=girisagar46&show_icons=true)![Profile views](https://gpvc.arturio.dev/girisagar46)  
@@ -43,8 +42,10 @@ See my [resume](https://github.com/girisagar46/girisagar46/blob/master/Resume_Sa
   </tbody>
 </table>
 
+<!--
 <hr>
 <img width="33%" src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=girisagar46" />
+--!>
 
 <hr>
 
