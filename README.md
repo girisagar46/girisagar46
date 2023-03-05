@@ -1,7 +1,9 @@
+<!--
 ![GitHub metrics](https://metrics.lecoq.io/girisagar46)
+-->
 
 
-### Hi there 👋, my name is Sagar. I'm currently living in Japan 🇯🇵
+## Hi there 👋, It's me Sagar from Japan 🇯🇵
 
 Skills: __PYTHON/ DJANGO/ AWS/ TERRAFORM/ KUBERNETES__
 
@@ -45,7 +47,7 @@ Skills: __PYTHON/ DJANGO/ AWS/ TERRAFORM/ KUBERNETES__
 <!--
 <hr>
 <img width="33%" src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=girisagar46" />
---!>
+
 
 <hr>
 
@@ -53,7 +55,7 @@ Skills: __PYTHON/ DJANGO/ AWS/ TERRAFORM/ KUBERNETES__
 <a href="https://github.com/girisagar46/girisagar46">
   <img src="https://activity-graph.herokuapp.com/graph?username=girisagar46" />
 </a>
-
+--!>
 
 <h3> GitHub Stats </h3>
 
