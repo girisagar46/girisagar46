@@ -30,7 +30,7 @@ Skills: __PYTHON/ DJANGO/ AWS/ TERRAFORM/ KUBERNETES__
   <tbody style="border: none;">
     <tr valign="top">
       <td width="50%" align="center" style="border: none;">
-        <img height="300px" src="https://github-readme-stats.vercel.app/api?username=girisagar46&show_icons=true">
+        <img height="300px" src="https://github-readme-stats.vercel.app/api?username=girisagar46&hide_border=true&show_icons=true&bg_color=283038&title_color=00cc66&icon_color=4db2f0&text_color=cccccc&count_private=true">
         
         <p>My trophies</p>
         <img src="https://github-profile-trophy.vercel.app/?username=girisagar46">
