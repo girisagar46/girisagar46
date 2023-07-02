@@ -21,6 +21,8 @@ Skills: __PYTHON/ DJANGO/ AWS/ TERRAFORM/ KUBERNETES__
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/mastodon.svg' alt='website' height='40'>](https://fosstodon.org/@girisagar46)
 
 
+Total Coding time: [![wakatime](https://wakatime.com/badge/user/912a4ff4-5366-4e0a-a806-6f25002a8264.svg)](https://wakatime.com/@912a4ff4-5366-4e0a-a806-6f25002a8264)
+
 <a href="https://stackexchange.com/users/5684581">
   <img src="https://stackexchange.com/users/flair/5684581.png" width="208" height="58" alt="profile for sgiri on Stack Exchange, a network of free, community-driven Q&amp;A sites" title="profile for sgiri on Stack Exchange, a network of free, community-driven Q&amp;A sites">
 </a>
