@@ -3,22 +3,19 @@
 -->
 
 
-## Hi there 👋, It's me Sagar.
+<h2> Hi there 👋, It's me Sagar.</h2>
 
-Skills: __PYTHON/ DJANGO/ AWS/ TERRAFORM/ KUBERNETES__
+Skills: __PYTHON/ DJANGO/ AWS__
 
 🔭 I’m currently working with __Python, Django, GraphQL__
 
-🌱 I’m currently learning __Advanced Python, Advanced Django & GraphQL__
+🌱 I’m currently learning __Advanced Python, Advanced Django & GraphQL, Rust__
 
-⚡ Fun fact: __Not Yet! :trollface:__
+⚡ Fun fact: __Nothing Yet! :trollface:__
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/girisagar46)
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg' alt='dev' height='40'>](https://dev.to/https://dev.to/girisagar46)
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/girisagar46//)
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg' alt='stackoverflow' height='40'>](https://stackoverflow.com/users/4494547/sgiri)
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://sagargiri.com/)
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/mastodon.svg' alt='website' height='40'>](https://fosstodon.org/@girisagar46)
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg' alt='stackoverflow' height='20'>](https://stackoverflow.com/users/4494547/sgiri)
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='20'>](https://sagargiri.com/)
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/mastodon.svg' alt='website' height='20'>](https://fosstodon.org/@girisagar46)
 
 
 [![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)](https://github.com/girisagar46?tab=repositories)
@@ -38,11 +35,7 @@ Skills: __PYTHON/ DJANGO/ AWS/ TERRAFORM/ KUBERNETES__
 
 <a href="https://github.com/girisagar46/girisagar46">
   <img width="33%" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=girisagar46&layout=compact&langs_count=8&theme=dark"/>
-  
-  <img width="33%" src="https://github-readme-stats.vercel.app/api/wakatime?username=girisagar46&layout=compact" />
 </a>
-
-[![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)](https://github.com/girisagar46?tab=repositories)
 
 <br/>
 
@@ -53,8 +46,10 @@ Skills: __PYTHON/ DJANGO/ AWS/ TERRAFORM/ KUBERNETES__
   <img width="33%" src="https://github-readme-streak-stats.herokuapp.com/?user=girisagar46&show_icons=true&locale=en&layout=demo&theme=dark&hide_border=true&count_private=true" />
 </a>
 
+<!--
 [![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)](https://github.com/girisagar46?tab=repositories)
 
 [![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)](https://github.com/girisagar46?tab=repositories)
 <a href="https://github.com/girisagar46?tab=repositories"><img src="https://github-profile-trophy.vercel.app/?username=girisagar46&column=8&margin-w=15&margin-h=15" alt="girisagar46"></a> 
 [![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)](https://github.com/girisagar46?tab=repositories)
+-->
