@@ -25,23 +25,3 @@
 </a>
 
 <br/>
-
-
-<a href="https://github.com/girisagar46/girisagar46">
-  <img width="33%" src="https://github-readme-streak-stats.herokuapp.com/?user=girisagar46&show_icons=true&locale=en&layout=demo&theme=dark&hide_border=true&count_private=true" />
-</a>
-
-[![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)](https://github.com/girisagar46?tab=repositories)
-
-
-<!--
-  <img width="33%" src="https://github-readme-stats.vercel.app/api?username=girisagar46&layout=compact&hide_border=true&show_icons=true&bg_color=283038&title_color=00cc66&icon_color=4db2f0&text_color=cccccc&count_private=true">
--->
-
-<!--
-[![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)](https://github.com/girisagar46?tab=repositories)
-
-[![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)](https://github.com/girisagar46?tab=repositories)
-<a href="https://github.com/girisagar46?tab=repositories"><img src="https://github-profile-trophy.vercel.app/?username=girisagar46&column=8&margin-w=15&margin-h=15" alt="girisagar46"></a> 
-[![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)](https://github.com/girisagar46?tab=repositories)
--->
